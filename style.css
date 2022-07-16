@@ -1,0 +1,27 @@
+.link, 
+.home-button, 
+#header-title {
+    font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+
+
+.link {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.link-recipe {
+    font-size: 30px;
+}
+
+.home-button {
+    background: lightblue;
+}
+
+#header-title {
+    color: lightblue;
+    font-size: 65px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
