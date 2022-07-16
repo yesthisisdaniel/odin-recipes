@@ -25,3 +25,11 @@
     text-decoration: underline;
 }
 
+.image-ramen {
+    height: 500px;
+    width: auto;
+}
+
+.header-title {
+    color: lightcoral;
+}
