@@ -1,9 +1,17 @@
+h2 {
+    text-decoration: underline;
+}
+
+
 .link, 
 .home-button, 
 #header-title {
     font-family: "Times New Roman", "Helvetica", sans-serif;
 }
 
+body {
+    background-color: lightgoldenrodyellow;
+}
 
 .link {
     font-weight: bold;
@@ -32,4 +40,18 @@
 
 .header-title {
     color: lightcoral;
+    text-decoration: underline;
+}
+
+.recipe-part {
+    text-decoration: underline; 
+    font-weight: bold;
+}
+
+.verticalline {
+    border-left: thick solid black;
+}
+
+.recipe-intro {
+    text-indent: 5px;
 }
